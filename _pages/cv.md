@@ -19,19 +19,18 @@ Engineering student with a strong foundation in.... Passionate about ... and eag
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  Graduation: May, 2028
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Laguna Beach High School**    
+  Graduation: [May, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, STAAD.Pro, ANSYS
+- **Programming:** Python, Java, MATLAB  
+- **Tools:** Welding, Machining, 3D Printing, Laser Cutting, Soldering
 
 ---
 
