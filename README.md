@@ -106,27 +106,6 @@ Once you made your changes, or at any time you wish to, you can test your change
 
 To run `bundle`, you need Ruby installed on your machine. 
 
-For MacOS, the recommended path is to install [`homebrew`](https://brew.sh/): 
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-and then Ruby:
-```
-brew install ruby
-```
-
-Make sure your system uses the `homebrew` version, add the following line to either `~/.bashrc` or `~/.zshrc`. Do determine what shell you are using, you can run `echo $SHELL`.
-
-```
-export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
-```
-
-Close your terminal and reopen it to load your configuration. Now verify that you have the latest Ruby version: 
-```
-ruby -v
-```
-
 On Windows, you can use [RubyInstaller](https://rubyinstaller.org/).
 
 ### Install Packages (once)
